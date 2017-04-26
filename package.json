@@ -1,0 +1,27 @@
+{
+  "name": "boregowda",
+  "version": "1.0.0",
+  "description": "Entertainment module for Aryabot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/aryabot/boregowda.git"
+  },
+  "author": "Vinay",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/aryabot/boregowda#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-validator": "^2.20.8",
+    "mongodb": "^2.1.18",
+    "osmosis": "^1.0.2",
+    "redis": "^2.6.2",
+    "request": "^2.72.0",
+    "underscore": "^1.8.3"
+  }
+}
